@@ -1,5 +1,5 @@
-mfqs: mfqs.cpp
-	g++ mfqs.cpp -o mfqs
+rts: RTS.cpp
+		g++ RTS.cpp -o rts
 
-clean:
-	rm mfqs
+clean: 
+		rm rts
