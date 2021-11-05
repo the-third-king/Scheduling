@@ -5,6 +5,7 @@ struct process{
 	int processNum;
 	int burstTime;
 	int waitTime;
+}
 
 int main() {
 	cout << "Hello world" << endl;
